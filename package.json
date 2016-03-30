@@ -1,0 +1,22 @@
+{
+  "name": "substitution-cipher-solver",
+  "version": "1.0.0",
+  "description": "Basic substitution cipher solver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olijay/substitution-cipher-solver.git"
+  },
+  "author": "olijay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olijay/substitution-cipher-solver/issues"
+  },
+  "homepage": "https://github.com/olijay/substitution-cipher-solver#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
